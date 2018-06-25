@@ -1,6 +1,8 @@
-class Employee:
+import requests
 
-    raise_amount = 1.04
+
+class Employee:
+    raise_amount = 1.05
     num_of_employees = 0
 
     # Constructor =============================================================
@@ -39,6 +41,13 @@ class Employee:
     # Regular Methods =========================================================
     def apply_raise(self):
         self.pay = int(self.pay * self.raise_amount)
+
+    def monthly_schedule(self, month):
+        response = requests.get(f'http://company.com/{self.last}/{month}')
+        if response.ok:
+            return response.text
+        else:
+            return 'Bad Response!'
 
     # Class Methods ===========================================================
     @classmethod

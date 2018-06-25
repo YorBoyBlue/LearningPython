@@ -24,3 +24,4 @@ class Manager(Employee):
     def print_employees(self):
         for employee in self.employees:
             print('--->', employee.full_name)
+

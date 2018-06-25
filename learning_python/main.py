@@ -176,5 +176,19 @@ print('\n')
 # ------------------------- # You can also pass in how many decimal places to
 # ------------------------- # round to as a second parameter
 
+# Lists ----------------------------------------
+
 # Check the length of a list
 # print(len(mgr_1.employees))
+
+# Access a range from a list
+# The first index is inclusive but the second is exclusive
+# So the below will return indexes 0 and 1
+# You can also pass in nothing for the first index and it will assume 0
+# You can also pass in nothing for the second index and it will assume the end
+# print(mgr_1.employees[0:2])
+# of the array
+
+print(mgr_1.employees)
+
+
