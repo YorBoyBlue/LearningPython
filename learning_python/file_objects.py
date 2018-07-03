@@ -105,10 +105,6 @@ print('\n')
 # csv ============================
 
 with open('../resources/test2.csv', 'r+', newline='', encoding='utf-8') as f:
-    my_contents = [['Learn Python', 'Training', '-More file objects'],
-                   ['TSA-169: Fix perms for account swwitching from broker to '
-                    'agent', 'killed that task'],
-                   ['test', 'testing']]
     fieldnames = ['first_name', 'last_name']
     writer = csv.DictWriter(f, fieldnames)
     reader = csv.reader(f)

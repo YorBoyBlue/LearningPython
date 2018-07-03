@@ -194,11 +194,16 @@ dtime = datetime.datetime.strptime(dt_string, '%B %d, %Y')
 print('Convert string back to datetime object')
 print(dtime)
 
+print()
+print('Using format() With Date Objects:')
+my_date = datetime.datetime(2018, 9, 24, 12, 30, 45)
+sentence = '{}'.format(my_date)
+print(sentence)
+sentence = '{:%B %d, %Y}'.format(my_date)
+print(sentence)
+
 # You can print all the possible time zones that can be passed in in two ways
 # I prefer this way
 # for tz in pytz.all_timezones:
 #     print(tz)
 # print(pytz.all_timezones)
-
-if __name__ == '__main__':
-    pass

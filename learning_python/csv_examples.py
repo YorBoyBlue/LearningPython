@@ -39,6 +39,3 @@ with open('../resources/test2.csv', 'r') as csv_file:
             # want the header to not show up as well
             # del line['last_name']
             csv_writer.writerow(line)
-
-if __name__ == '__main__':
-    pass
