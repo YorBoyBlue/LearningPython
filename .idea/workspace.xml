@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1015398-434d-4e1d-96bf-8e6621561e06" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_python/sqlite_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_python/time_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Arin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_python/test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_python/yaml_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_python/sqlite_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_python/sqlite_example.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +20,7 @@
     <SUITE FILE_PATH="coverage/LearningPython$csv_example.coverage" NAME="csv_example Coverage Results" MODIFIED="1530299033865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$csv_examples.coverage" NAME="csv_examples Coverage Results" MODIFIED="1530298910694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$Unittests_for_test_employee_TestEmployee_test_apply_raise.coverage" NAME="Unittests for test_employee.TestEmployee.test_apply_raise Coverage Results" MODIFIED="1529959784120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test_example" />
-    <SUITE FILE_PATH="coverage/LearningPython$time_gen.coverage" NAME="time_gen Coverage Results" MODIFIED="1530717466593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
+    <SUITE FILE_PATH="coverage/LearningPython$time_gen.coverage" NAME="yaml_example Coverage Results" MODIFIED="1530718946642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$generators.coverage" NAME="generators Coverage Results" MODIFIED="1530221924680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$json_data.coverage" NAME="SQLite_example Coverage Results" MODIFIED="1530640597811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$lists_examples.coverage" NAME="random_module_examples Coverage Results" MODIFIED="1530133240860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
@@ -46,20 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="employee.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_python/employee.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sqlite_example.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sqlite_example.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning_python/sqlite_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+            <state relative-caret-position="756">
+              <caret line="103" column="74" selection-start-line="103" selection-start-column="74" selection-end-line="103" selection-end-column="74" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -67,11 +59,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time_generator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learning_python/time_generator.py">
+      <file leaf-file-name="yaml_example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_python/yaml_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="418">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_python/test2.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_python/test.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -135,8 +145,10 @@
         <option value="$PROJECT_DIR$/learning_python/states.json" />
         <option value="$PROJECT_DIR$/learning_python/json_data.py" />
         <option value="$PROJECT_DIR$/learning_python/context_managers.py" />
-        <option value="$PROJECT_DIR$/learning_python/sqlite_example.py" />
         <option value="$PROJECT_DIR$/learning_python/time_generator.py" />
+        <option value="$PROJECT_DIR$/learning_python/test.yaml" />
+        <option value="$PROJECT_DIR$/learning_python/yaml_example.py" />
+        <option value="$PROJECT_DIR$/learning_python/sqlite_example.py" />
       </list>
     </option>
   </component>
@@ -186,7 +198,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learning_python/time_generator.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -215,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.time_gen">
+  <component name="RunManager" selected="Python.yaml_example">
     <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyhton_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +285,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="time_gen" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="yaml_example" type="PythonConfigurationType" factoryName="Python">
       <module name="Pyhton_Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +298,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_python/time_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_python/yaml_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +334,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.time_gen" />
+      <item itemvalue="Python.yaml_example" />
       <item itemvalue="Python tests.unit_tests_calc" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.employee" />
@@ -384,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530632347289</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added my time generator function">
+      <created>1530717503296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530717503296</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -437,13 +456,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32892415" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.29655713" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34567901" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34567901" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.37037036" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47708896" visible="true" weight="0.12649165" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47795415" visible="true" weight="0.12649165" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.5229111" side_tool="true" visible="true" weight="0.12649165" />
+      <window_info id="Structure" order="1" sideWeight="0.52204585" side_tool="true" visible="true" weight="0.12649165" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994709" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,7 +484,8 @@
     <MESSAGE value="Structure setup" />
     <MESSAGE value="Caught back up to where I nuked it!" />
     <MESSAGE value="Just finished Json examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just finished Json examples" />
+    <MESSAGE value="Added my time generator function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my time generator function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -473,9 +493,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_training/oop_example.py" />
-    <entry file="file://$PROJECT_DIR$/python_training/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python_training/oop_example.py" />
     <entry file="file://$PROJECT_DIR$/python_training/__init__.py" />
     <entry file="file://$PROJECT_DIR$/python_training/oop_example.py" />
     <entry file="file://$PROJECT_DIR$/python_training/__init__.py" />
@@ -688,20 +705,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_python/sqlite_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning_python/time_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_python/test.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_python/test2.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_python/yaml_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_python/sqlite_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="103" column="74" selection-start-line="103" selection-start-column="74" selection-end-line="103" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

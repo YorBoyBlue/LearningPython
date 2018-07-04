@@ -101,9 +101,9 @@ c.execute(
     "last='Hawking')")
 # Returns the next row in the results and if there is nothing it returns none
 # result = c.fetchone()
-# Returns the specified amount of rows from the result as a list
+# Returns the specified amount of rows from the result as a list of tuples
 # result = c.fetchmany(5)
-# Returns all rows from result as a list
+# Returns all rows from result as a list of tuples
 result = c.fetchall()
 print(result)
 
