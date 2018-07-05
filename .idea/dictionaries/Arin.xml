@@ -2,6 +2,7 @@
   <dictionary name="Arin">
     <words>
       <w>filepath</w>
+      <w>tablename</w>
       <w>yaml</w>
     </words>
   </dictionary>
