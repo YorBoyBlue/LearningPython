@@ -14,7 +14,7 @@ engine = create_engine('sqlite:///test.db')
 Base = declarative_base()
 Session = sessionmaker(bind=engine)
 # Session = sessionmaker()
-Session.configure(bind=engine)
+# Session.configure(bind=engine)
 session = Session()
 
 

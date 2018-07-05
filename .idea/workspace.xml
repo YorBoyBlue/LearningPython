@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1015398-434d-4e1d-96bf-8e6621561e06" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_python/sql_alchemy_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Arin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Arin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_python/sql_alchemy_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_python/sql_alchemy_example.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +26,7 @@
     <SUITE FILE_PATH="coverage/LearningPython$main.coverage" NAME="main Coverage Results" MODIFIED="1530298978849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$regex_examples.coverage" NAME="generators Coverage Results" MODIFIED="1530212144484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/LearningPython$Unittests_in_test_calc_py.coverage" NAME="unit_tests Coverage Results" MODIFIED="1529958710941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test_example" />
-    <SUITE FILE_PATH="coverage/LearningPython$sql_alchemy_example.coverage" NAME="sql_alchemy_example Coverage Results" MODIFIED="1530803387575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
+    <SUITE FILE_PATH="coverage/LearningPython$sql_alchemy_example.coverage" NAME="sql_alchemy_example Coverage Results" MODIFIED="1530815899278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_python" />
     <SUITE FILE_PATH="coverage/Python_Training$oop_example.coverage" NAME="oop_example Coverage Results" MODIFIED="1528402191356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_training" />
   </component>
   <component name="DatabaseView">
@@ -49,11 +48,20 @@
       <file leaf-file-name="sql_alchemy_example.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning_python/sql_alchemy_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="136" column="43" lean-forward="true" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+            <state relative-caret-position="298">
+              <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_employee.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit_test_example/test_employee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -139,11 +147,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2573" />
+    <option name="y" value="15" />
+    <option name="width" value="2155" />
+    <option name="height" value="1272" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -164,6 +172,11 @@
               <item name="LearningPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningPython" type="462c0819:PsiDirectoryNode" />
               <item name="learning_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningPython" type="462c0819:PsiDirectoryNode" />
+              <item name="unit_test_example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -408,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530744908339</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SQLAlchemy learned">
+      <created>1530803952416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530803952416</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -453,22 +473,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="2573" y="15" width="2155" height="1272" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32892415" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32942098" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30672926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34567901" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32892415" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.29577464" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.37037036" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47629797" visible="true" weight="0.10691574" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47574124" visible="true" weight="0.12840095" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.523702" side_tool="true" visible="true" weight="0.10691574" />
+      <window_info id="Structure" order="1" sideWeight="0.52425873" side_tool="true" visible="true" weight="0.12840095" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994709" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -491,7 +511,8 @@
     <MESSAGE value="Just finished Json examples" />
     <MESSAGE value="Added my time generator function" />
     <MESSAGE value="Added yaml example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added yaml example" />
+    <MESSAGE value="SQLAlchemy learned" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQLAlchemy learned" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -575,13 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit_test_example/test_employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -756,10 +770,17 @@
     <entry file="file://$PROJECT_DIR$/learning_python/test.db">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test_example/test_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learning_python/sql_alchemy_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="136" column="43" lean-forward="true" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+        <state relative-caret-position="298">
+          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
